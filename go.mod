@@ -1,4 +1,4 @@
-module github.com/hattrickcr7/mylrc
+module github.com/libra-violet/lrc
 
 go 1.13
 
